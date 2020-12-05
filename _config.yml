@@ -7,15 +7,14 @@ permalink:        pretty
 relative_permalinks: false
 
 # Setup
-title:            Connor Slamowitz
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            Connor
+tagline:          'A Scientist'
+description:      'Slamowitz'
 url:              connorslamowitz.github.io/Connor-Slamowitz/
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Connor Slamowitz'
 
 paginate:         5
 

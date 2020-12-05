@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Mission
+title: Welcome
 ---
 
-Blah Blah Blah Blah 
+This is the official portfolio for Connor Slamowitz. I was born in Glen Allen, Virginia, a suburb of Richmond. I currently reside in Chapel Hill, North Carolina where I study Materials Science in the Department of Applied Physical Sciences. I work under [Prof. Scott Warren](http://2d-lab.com/) studying the fundamental mechanisms of next-generation battery components. One day I hope to implement grid-scale storage solutions for to create a carbon-negative society. 
 
-### Built on Poole
+### Mission 
 
 Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
 
@@ -16,7 +16,7 @@ Poole is the Jekyll Butler, serving as an upstanding and effective foundation fo
 * Related posts (time-based, because Jekyll) below each post
 * Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
 
-### Hyde features
+### Research Goals
 
 In addition to the features of Poole, Hyde adds the following:
 

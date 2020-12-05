@@ -1,6 +1,7 @@
 ---
 layout: page
 title: CV
+url: https://github.com/ConnorSlamowitz/Connor-Slamowitz/main/about.md
 ---
 
 <p class="message">

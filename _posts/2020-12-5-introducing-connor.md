@@ -3,7 +3,7 @@ layout: post
 title: Welcome
 ---
 
-This is the official portfolio for Connor Slamowitz. I was born in Glen Allen, Virginia, a suburb of Richmond. I currently reside in Chapel Hill, North Carolina where I study Materials Science in the Department of Applied Physical Sciences. I work under [Prof. Scott Warren](http://2d-lab.com/) studying the fundamental mechanisms of next-generation battery components. My interests lie in the adoption of interdisciplinary sciences to solve ... Blah
+This is the official portfolio for Connor Slamowitz. I was born in Glen Allen, Virginia, a suburb of Richmond. I currently reside in Chapel Hill, North Carolina where I study Materials Science in the Department of Applied Physical Sciences. I work under [Prof. Scott Warren](http://2d-lab.com/) studying the fundamental mechanisms of next-generation battery components. My interests lie in the adoption of interdisciplinary sciences to solve society's most pressing problems. 
 
 ### Mission 
 

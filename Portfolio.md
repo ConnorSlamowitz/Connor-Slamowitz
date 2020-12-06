@@ -1,6 +1,6 @@
 ---
 title: Research Portfolio
-type: page
+layout: page
 ---
 
 ## Introduction to my Research

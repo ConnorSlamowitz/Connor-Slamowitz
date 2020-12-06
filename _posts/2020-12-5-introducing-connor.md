@@ -19,7 +19,6 @@ This is the official portfolio for Connor Slamowitz. I was born in Glen Allen, V
     </tr>
   </tbody>
 </table>
-LinkedIn Email Phone
 
 ### Research Goals
 

@@ -4,7 +4,23 @@ title: CV
 ---
 ## Education
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  University of North Carolina – Chapel Hill<br>
+  PhD in Materials Science In Progress<br>
+  Department of Applied Physical Sciences<br>
+
+ </p>
+ <p class="message">
+  Virginia Tech GPA: 3.64/4.00 Magna Cum Laude<br>
+  Bachelor of Science in Nanoscience<br>
+  Minor in International Business<br>
+  <br>
+  <strong>Integrated Science Curriculum:</strong> Accepted into a cohort of 50 undergraduate science students; course-load fulfilled physics, statistics, chemistry, and biology prerequisites and   included focus on the intersection between each discipline<br>
+
+  <strong>Relevant Coursework:</strong> Intro to Software Design, Cell and Molecular Biology for Engineers, Quantum Physics of Nanostructures, Undergraduate Research (Fall ‘17-present),   Nanomaterial Synthesis and Characterization, Nanoscience and the Environment, Nanomedicine, International Management, International Tourism<br>
+
+  <strong>Dean’s List:</strong> Fall ‘16, Fall ‘17, Spring ‘18, Summer ‘18, Fall ‘18, Spring ’19, Fall ’19, Spring '20<br>
+
+  Study Abroad: Traveled internationally over the course of two weeks to Auckland, New Zealand and Queenstown, New Zealand in order to study international management and           leadership. (Winter ’20)
 </p>
 
 ## Research Experience

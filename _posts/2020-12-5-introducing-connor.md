@@ -3,7 +3,7 @@ layout: post
 title: Welcome
 ---
 ![Placeholder](https://raw.githubusercontent.com/ConnorSlamowitz/Connor-Slamowitz/main/public/1599063296684.jpg "My Image")
-This is the official portfolio for Connor Slamowitz. I was born in Glen Allen, Virginia, a suburb of Richmond. I currently reside in Chapel Hill, North Carolina where I study Materials Science in the department of **Applied Physical Sciences** at the **University of North Carolina - Chapel Hill**. I work under [Prof. Scott Warren](http://2d-lab.com/) researching the fundamental mechanisms of next-generation battery components. My interests lie in the adoption of interdisciplinary sciences to solve society's most pressing problems. 
+This is the official portfolio for Connor Slamowitz. I was born in Glen Allen, Virginia, a suburb of Richmond. I attended Virginia Tech where I studied Nanoscience and International Business. I currently reside in Chapel Hill, North Carolina where I study Materials Science in the department of **Applied Physical Sciences** at the **University of North Carolina - Chapel Hill**. I work under [Prof. Scott Warren](http://2d-lab.com/) researching the fundamental mechanisms of next-generation battery components. My interests lie in the adoption of interdisciplinary sciences to solve society's most pressing problems. 
 
 <table cellpadding="0" cellspacing="0" border="0">
   <tbody>

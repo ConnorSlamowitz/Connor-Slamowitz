@@ -7,7 +7,8 @@ title: CV
   University of North Carolina – Chapel Hill<br>
   PhD in Materials Science In Progress<br>
   Department of Applied Physical Sciences<br>
-
+  <br>
+  <strong>Relevant Coursework: </strong>Electroanalytical Chemistry, Advanced Material Science 
  </p>
  <p class="message">
   Virginia Tech GPA: 3.64/4.00 Magna Cum Laude<br>
@@ -20,7 +21,7 @@ title: CV
 
   <strong>Dean’s List:</strong> Fall ‘16, Fall ‘17, Spring ‘18, Summer ‘18, Fall ‘18, Spring ’19, Fall ’19, Spring '20<br>
 
-  Study Abroad: Traveled internationally over the course of two weeks to Auckland, New Zealand and Queenstown, New Zealand in order to study international management and           leadership. (Winter ’20)
+  <strong>Study Abroad:</strong> Traveled internationally over the course of two weeks to Auckland, New Zealand and Queenstown, New Zealand in order to study international management and           leadership. (Winter ’20)
 </p>
 
 ## Research Experience

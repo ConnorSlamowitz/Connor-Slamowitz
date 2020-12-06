@@ -14,17 +14,17 @@ title: CV
 
 ## Awards
 <p class="message">
-  Nanotechnology Entrepreneurship Challenge Award (Spring 2020)<br>
+  Nanotechnology Entrepreneurship Challenge Award <br>(Spring 2020)<br>
   <br>
-  Timothy E. and Victoria K. Long Undergraduate Science Scholarship (Spring 2019)<br>
+  Timothy E. and Victoria K. Long Undergraduate Science Scholarship <br>(Spring 2019)<br>
   <br>
-  $2,000 Luther and Alice Hamlett Research Grant (Spring 2018)<br>
+  $2,000 Luther and Alice Hamlett Research Grant <br>(Spring 2018)<br>
   <br>
-  $2,000 Luther and Alice Hamlett Research Grant (Fall 2018)<br>
+  $2,000 Luther and Alice Hamlett Research Grant <br>(Fall 2018)<br>
   <br>
-  National Latin Exam Magna cum Laude (Spring 2016)<br>
+  National Latin Exam Magna cum Laude <br>(Spring 2016)<br>
   <br>
-  AP Scholar with Honor (Spring 2015)<br>
+  AP Scholar with Honor <br>(Spring 2015)<br>
 </p>
 
 ## Skills

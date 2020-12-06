@@ -6,6 +6,6 @@ layout: page
 ## Introduction to my Research
 <p class="message>
   Inspirational Quote
-<p>
+</p>
 
 #Papers, Conferences, and Posters Here! 

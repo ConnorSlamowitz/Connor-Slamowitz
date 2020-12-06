@@ -30,8 +30,6 @@ title: CV
       <td>Engineering</td>
       <td>Languages</td>
       <td>Software</td>
-      <td>Analytical</td>
-      <td>Certifications</td>
     </tr>
     <tr style="text-align:left;">
       <td>

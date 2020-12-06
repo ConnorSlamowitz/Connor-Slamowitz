@@ -10,7 +10,7 @@ This is the official portfolio for Connor Slamowitz. I was born in Glen Allen, V
     <tr>
       <td><img src="https://raw.githubusercontent.com/ConnorSlamowitz/ConnorSlamowitz.github.io/main/public/noun_Media_2149767.png" style="width:20%;margin-left:auto;margin-right:auto;" alt="Linked_In Noun Project"></td>
       <td><img src="https://raw.githubusercontent.com/ConnorSlamowitz/ConnorSlamowitz.github.io/main/public/noun_Email_1002247.png" style="width:20%;margin-left:auto;margin-right:auto;" alt="Email Noun Project"></td>
-      <td><img src="https://raw.githubusercontent.com/ConnorSlamowitz/ConnorSlamowitz.github.io/main/public/noun_call_2766591.png" style="width:30%;margin-left:auto;margin-right:auto;" alt="Phone Number Noun Project"></td>
+      <td><img src="https://raw.githubusercontent.com/ConnorSlamowitz/ConnorSlamowitz.github.io/main/public/noun_call_2766591.png" style="width:34%;margin-left:auto;margin-right:auto;" alt="Phone Number Noun Project"></td>
     </tr>
     <tr style="text-align:center;">
       <td><a href="https://www.linkedin.com/in/connorslamowitz">LinkedIn</a></td>

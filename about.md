@@ -3,17 +3,19 @@ layout: page
 title: CV
 ---
 ## Education
+### University of North Carolina – Chapel Hill
 <p class="message">
-  University of North Carolina – Chapel Hill<br>
   PhD in Materials Science In Progress<br>
   Department of Applied Physical Sciences<br>
   <br>
   <strong>Relevant Coursework: </strong>Electroanalytical Chemistry, Advanced Material Science 
  </p>
+### Virginia Tech 
  <p class="message">
-  Virginia Tech GPA: 3.64/4.00 Magna Cum Laude<br>
   Bachelor of Science in Nanoscience<br>
   Minor in International Business<br>
+  <strong>GPA: 3.64/4.00         Magna Cum Laude</strong><br>
+ 
   <br>
   <strong>Integrated Science Curriculum:</strong> Accepted into a cohort of 50 undergraduate science students; course-load fulfilled physics, statistics, chemistry, and biology prerequisites and   included focus on the intersection between each discipline<br>
 

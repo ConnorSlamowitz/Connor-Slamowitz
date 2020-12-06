@@ -4,20 +4,17 @@ title: CV
 ---
 ## Education
 ### University of North Carolina – Chapel Hill
+PhD in Materials Science In Progress
+Department of Applied Physical Sciences
 <p class="message">
-  PhD in Materials Science In Progress<br>
-  Department of Applied Physical Sciences<br>
-  <br>
   <strong>Relevant Coursework: </strong>Electroanalytical Chemistry, Advanced Material Science 
  </p>
  
-### Virginia Tech
+### Virginia Tech - Magna Cum Laude
+GPA: 3.64/4.00       
+Bachelor of Science in Nanoscience
+  Minor in International Business
  <p class="message">
-  Bachelor of Science in Nanoscience<br>
-  Minor in International Business<br>
-  <strong>GPA: 3.64/4.00         Magna Cum Laude</strong><br>
- 
-  <br>
   <strong>Integrated Science Curriculum:</strong> Accepted into a cohort of 50 undergraduate science students; course-load fulfilled physics, statistics, chemistry, and biology prerequisites and   included focus on the intersection between each discipline<br>
 
   <strong>Relevant Coursework:</strong> Intro to Software Design, Cell and Molecular Biology for Engineers, Quantum Physics of Nanostructures, Undergraduate Research (Fall ‘17-Spring '19),   Nanomaterial Synthesis and Characterization, Nanoscience and the Environment, Nanomedicine, International Management, International Tourism<br>
@@ -28,19 +25,23 @@ title: CV
 </p>
 
 ## Research Experience
-### Prof. Scott Warren Research Group 
+### Prof. Scott Warren Research Group
+August '20 - Present
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
 ### Luna Innovations, Inc
+May '19 - August '20 
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
-### Prof. Robert Moore Research Group 
+### Prof. Robert Moore Research Group
+February '20 - April '20
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
-### Prof. Amanda Morris Research Group  
+### Prof. Amanda Morris Research Group
+August '17 - May '19
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>

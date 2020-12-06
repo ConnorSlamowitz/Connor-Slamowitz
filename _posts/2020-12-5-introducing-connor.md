@@ -3,20 +3,23 @@ layout: post
 title: Welcome
 ---
 ![Placeholder](https://raw.githubusercontent.com/ConnorSlamowitz/Connor-Slamowitz/main/public/1599063296684.jpg "My Image")
-This is the official portfolio for Connor Slamowitz. I was born in Glen Allen, Virginia, a suburb of Richmond. I currently reside in Chapel Hill, North Carolina where I study Materials Science in the Department of Applied Physical Sciences. I work under [Prof. Scott Warren](http://2d-lab.com/) studying the fundamental mechanisms of next-generation battery components. My interests lie in the adoption of interdisciplinary sciences to solve society's most pressing problems. 
+This is the official portfolio for Connor Slamowitz. I was born in Glen Allen, Virginia, a suburb of Richmond. I currently reside in Chapel Hill, North Carolina where I study Materials Science in the department of **Applied Physical Sciences** at the **University of North Carolina - Chapel Hill**. I work under [Prof. Scott Warren](http://2d-lab.com/) researching the fundamental mechanisms of next-generation battery components. My interests lie in the adoption of interdisciplinary sciences to solve society's most pressing problems. 
 
-LinkedIn 
-
-### Mission 
-
-One day I hope to implement grid-scale storage solutions for to create a carbon-negative society. 
-
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
+<table>
+  <tbody>
+    <tr>
+      <td>![Placeholder](https://raw.githubusercontent.com/ConnorSlamowitz/ConnorSlamowitz.github.io/main/public/noun_Media_2149767.png "My Image")</td>
+      <td>![Placeholder](https://raw.githubusercontent.com/ConnorSlamowitz/ConnorSlamowitz.github.io/main/public/noun_Email_1002247.png "My Image")</td>
+      <td>![Placeholder](https://raw.githubusercontent.com/ConnorSlamowitz/ConnorSlamowitz.github.io/main/public/noun_call_2766591.png "My Image")</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.linkedin.com/in/connorslamowitz">LinkedIn</a></td>
+      <td>slamo1@email.unc.edu</td>
+      <td>804-525-0368</td>
+    </tr>
+  </tbody>
+</table>
+LinkedIn Email Phone
 
 ### Research Goals
 

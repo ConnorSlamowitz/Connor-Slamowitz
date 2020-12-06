@@ -115,4 +115,4 @@ title:
 
 ## Publications
 
-1. Chakraborty, A., Ilic, S., Cai, M., Gibbons, B. J., Yang, X., **Slamowitz, C. C.**, & Morris, A. J. (2020). Role of Spin–Orbit Coupling in Long Range Energy Transfer in Metal–Organic Frameworks. Journal of the American Chemical Society, 142(48), 20434–20443. https://doi.org/10.1021/jacs.0c09503
+1. Chakraborty, A., Ilic, S., Cai, M., Gibbons, B. J., Yang, X., **Slamowitz, C. C.**, & Morris, A. J. (2020). Role of Spin–Orbit Coupling in Long Range Energy Transfer in Metal–Organic Frameworks. Journal of the American Chemical Society, 142(48), 20434–20443. [https://doi.org/10.1021/jacs.0c09503](https://doi.org/10.1021/jacs.0c09503)

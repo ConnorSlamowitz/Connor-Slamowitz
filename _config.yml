@@ -10,7 +10,7 @@ relative_permalinks: false
 title:            Connor Slamowitz
 tagline:          '21st Century Explorer'
 description:      'Graduate Researcher of Materials at the University of North Carolina - Chapel Hill'
-url:              connorslamowitz.github.io/Connor-Slamowitz/
+url:              connorslamowitz.github.io/
 baseurl:          /
 
 author:

@@ -62,6 +62,16 @@ title: CV
           <li>Tinkercad</li>
         </ul>
       </td>
+    </tr>
+  </tbody>
+</table>
+<table cellpadding="0" cellspacing="0" border="0">
+  <tbody>
+    <tr style="text-align:center;font-weight:bold;">
+      <td>Analytical</td>
+      <td>Certifications</td>
+    </tr>
+    <tr style="text-align:left;">
       <td>
         <ul>
           <li>X-Ray Powder Defraction</li>

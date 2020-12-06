@@ -6,6 +6,7 @@ title: CV
 ### University of North Carolina – Chapel Hill
 PhD in Materials Science In Progress
 Department of Applied Physical Sciences
+
 <p class="message">
   <strong>Relevant Coursework: </strong>Electroanalytical Chemistry, Advanced Material Science 
  </p>
@@ -13,7 +14,8 @@ Department of Applied Physical Sciences
 ### Virginia Tech - Magna Cum Laude
 GPA: 3.64/4.00       
 Bachelor of Science in Nanoscience
-  Minor in International Business
+Minor in International Business
+
  <p class="message">
   <strong>Integrated Science Curriculum:</strong> Accepted into a cohort of 50 undergraduate science students; course-load fulfilled physics, statistics, chemistry, and biology prerequisites and   included focus on the intersection between each discipline<br>
 
@@ -25,25 +27,49 @@ Bachelor of Science in Nanoscience
 </p>
 
 ## Research Experience
-### Prof. Scott Warren Research Group
+### Warren Group
+Chapel Hill, NC
 August '20 - Present
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  <ul>
+     <li>Ultimaker 3D Printing</li>
+     <li>Laser Cutting</li>
+     <li>Vinyl Cutting</li>
+     <li>Basic Electronics Designs</li>
+  </ul>
 </p>
 ### Luna Innovations, Inc
+Blacksburg, VA
 May '19 - August '20 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  <ul>
+     <li>Ultimaker 3D Printing</li>
+     <li>Laser Cutting</li>
+     <li>Vinyl Cutting</li>
+     <li>Basic Electronics Designs</li>
+  </ul>
 </p>
-### Prof. Robert Moore Research Group
+### Moore Group
+Blacksburg, VA
 February '20 - April '20
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  <ul>
+     <li>Ultimaker 3D Printing</li>
+     <li>Laser Cutting</li>
+     <li>Vinyl Cutting</li>
+     <li>Basic Electronics Designs</li>
+  </ul>
 </p>
-### Prof. Amanda Morris Research Group
+### Morris Group
+Blacksburg, VA
 August '17 - May '19
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  <ul>
+     <li>Ultimaker 3D Printing</li>
+     <li>Laser Cutting</li>
+     <li>Vinyl Cutting</li>
+     <li>Basic Electronics Designs</li>
+  </ul>
 </p>
 
 ## Awards

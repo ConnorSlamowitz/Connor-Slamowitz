@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: CV
 ---
 ## Education
 ### University of North Carolina – Chapel Hill
@@ -28,6 +28,19 @@ title:
 </p>
 
 ## Research Experience
+### Prof. Scott Warren Research Group 
+<p class="message">
+  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+</p>
+### Luna Innovations, Inc
+<p class="message">
+  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+</p>
+### Prof. Robert Moore Research Group 
+<p class="message">
+  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+</p>
+### Prof. Amanda Morris Research Group  
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>

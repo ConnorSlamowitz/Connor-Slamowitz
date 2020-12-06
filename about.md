@@ -20,7 +20,7 @@ title: CV
   <br>
   <strong>Integrated Science Curriculum:</strong> Accepted into a cohort of 50 undergraduate science students; course-load fulfilled physics, statistics, chemistry, and biology prerequisites and   included focus on the intersection between each discipline<br>
 
-  <strong>Relevant Coursework:</strong> Intro to Software Design, Cell and Molecular Biology for Engineers, Quantum Physics of Nanostructures, Undergraduate Research (Fall ‘17-present),   Nanomaterial Synthesis and Characterization, Nanoscience and the Environment, Nanomedicine, International Management, International Tourism<br>
+  <strong>Relevant Coursework:</strong> Intro to Software Design, Cell and Molecular Biology for Engineers, Quantum Physics of Nanostructures, Undergraduate Research (Fall ‘17-Spring '19),   Nanomaterial Synthesis and Characterization, Nanoscience and the Environment, Nanomedicine, International Management, International Tourism<br>
 
   <strong>Dean’s List:</strong> Fall ‘16, Fall ‘17, Spring ‘18, Summer ‘18, Fall ‘18, Spring ’19, Fall ’19, Spring '20<br>
 

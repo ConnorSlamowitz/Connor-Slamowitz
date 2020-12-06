@@ -13,7 +13,7 @@ title: CV
 </p>
 
 ## Awards
-<p class="message">
+<p class="message" style="text-align:center;">
   Nanotechnology Entrepreneurship Challenge Award <br>(Spring 2020)<br>
   <br>
   Timothy E. and Victoria K. Long Undergraduate Science Scholarship <br>(Spring 2019)<br>

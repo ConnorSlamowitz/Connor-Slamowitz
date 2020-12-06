@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: default
 title: CV
-url: https://github.com/ConnorSlamowitz/Connor-Slamowitz/about.md
 ---
 
 <p class="message">

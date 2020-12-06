@@ -10,7 +10,8 @@ title: CV
   <br>
   <strong>Relevant Coursework: </strong>Electroanalytical Chemistry, Advanced Material Science 
  </p>
-### Virginia Tech 
+ 
+### Virginia Tech
  <p class="message">
   Bachelor of Science in Nanoscience<br>
   Minor in International Business<br>

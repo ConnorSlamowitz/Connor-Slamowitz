@@ -14,8 +14,8 @@ This is the official portfolio for Connor Slamowitz. I was born in Glen Allen, V
     </tr>
     <tr style="text-align:center;">
       <td><a href="https://www.linkedin.com/in/connorslamowitz">LinkedIn</a></td>
-      <td><a href="slamo1@email.unc.edu">slamo1@email.unc.edu</a></td>
-      <td><a href="tel:804-525-0368">804-525-0368</a></td>
+      <td><a href="mailto: slamo1@email.unc.edu">E-Mail</a></td>
+      <td><a href="tel:804-525-0368">Call</a></td>
     </tr>
   </tbody>
 </table>

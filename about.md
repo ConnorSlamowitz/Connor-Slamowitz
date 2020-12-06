@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title:
 ---
 ## Education
 ### University of North Carolina – Chapel Hill

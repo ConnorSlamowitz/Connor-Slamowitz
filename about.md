@@ -4,7 +4,7 @@ title: CV
 ---
 ## Education
 ### University of North Carolina – Chapel Hill
-PhD in Materials Science In Progress
+PhD in Materials Science In Progress  
 Department of Applied Physical Sciences
 
 <p class="message">
@@ -13,7 +13,7 @@ Department of Applied Physical Sciences
  
 ### Virginia Tech - Magna Cum Laude
 GPA: 3.64/4.00       
-Bachelor of Science in Nanoscience
+Bachelor of Science in Nanoscience  
 Minor in International Business
 
  <p class="message">
@@ -28,7 +28,7 @@ Minor in International Business
 
 ## Research Experience
 ### Warren Group
-Chapel Hill, NC
+Chapel Hill, NC  
 August '20 - Present
 <p class="message">
   <ul>
@@ -39,7 +39,7 @@ August '20 - Present
   </ul>
 </p>
 ### Luna Innovations, Inc
-Blacksburg, VA
+Blacksburg, VA  
 May '19 - August '20 
 <p class="message">
   <ul>
@@ -50,7 +50,7 @@ May '19 - August '20
   </ul>
 </p>
 ### Moore Group
-Blacksburg, VA
+Blacksburg, VA  
 February '20 - April '20
 <p class="message">
   <ul>
@@ -61,7 +61,7 @@ February '20 - April '20
   </ul>
 </p>
 ### Morris Group
-Blacksburg, VA
+Blacksburg, VA  
 August '17 - May '19
 <p class="message">
   <ul>

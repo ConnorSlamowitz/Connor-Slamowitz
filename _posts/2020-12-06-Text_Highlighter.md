@@ -27,8 +27,8 @@ Following the steps outlined by David, I'm first going to install the txtmarker 
 > pip install txtmarker
 
 Then, I'll go into my text editor (going with Visual Studio Code) and create a new highlighter
-'''python
+{% highlight python %}
 from txtmarker.factory import Factory
 highlighter = Factory.create("pdf")
-'''
+{% endhighlight %}
 

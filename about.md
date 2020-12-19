@@ -32,7 +32,7 @@ Chapel Hill, NC
 August '20 - Present
 <p class="message">
   <ul>
-     Performed electrochemistry such as galvanostatic charging/discharging, cyclic voltammetry, and impedance spectroscopy on experimental electrode materials
+     Performed electrochemical analysis such as galvanostatic charging/discharging, cyclic voltammetry, and impedance spectroscopy on experimental electrode materials
      Produced heavy metal inorganic materials using high temperature synthesis
      Conducted characterization such as Powder X-Ray Diffraction to determine the crystal structure and identification of materials
   </ul>

@@ -31,8 +31,8 @@ Minor in International Business
 Chapel Hill, NC  
 August '20 - Present
 <p class="message">
-     Performed electrochemical analysis such as galvanostatic charging/discharging, cyclic voltammetry, and impedance spectroscopy on experimental electrode materials
-     Produced heavy metal inorganic materials using high temperature synthesis
+     Performed electrochemical analysis such as galvanostatic charging/discharging, cyclic voltammetry, and impedance spectroscopy on experimental electrode materials<br>
+     Produced heavy metal inorganic materials using high temperature synthesis<br>
      Conducted characterization such as Powder X-Ray Diffraction to determine the crystal structure and identification of materials
  </p>
 ### Luna Innovations, Inc

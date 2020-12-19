@@ -30,11 +30,13 @@ Minor in International Business
 ### Warren Group
 Chapel Hill, NC  
 August '20 - Present
-  <ul class="message>
+<p class="message">
+  <ul>
      <li>Performed electrochemistry such as galvanostatic charging/discharging, cyclic voltammetry, and impedance spectroscopy on experimental electrode materials</li>
      <li>Produced heavy metal inorganic materials using high temperature synthesis</li>
      <li>Conducted characterization such as Powder X-Ray Diffraction to determine the crystal structure and identification of materials</li>
   </ul>
+ </p>
 ### Luna Innovations, Inc
 Blacksburg, VA  
 May '19 - August '20 

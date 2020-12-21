@@ -32,9 +32,9 @@ Chapel Hill, NC
 August '20 - Present
 <div class="message">
   <ul>
-     <li>Performed electrochemical analysis such as galvanostatic charging/discharging, cyclic voltammetry, and impedance spectroscopy on experimental electrode materials</li><br>
-     <li>Produced heavy metal inorganic materials using high temperature synthesis</li><br>
-     <li>Conducted characterization such as Powder X-Ray Diffraction to determine the crystal structure and identification of materials</li><br>
+     <li>Performed electrochemical analysis such as galvanostatic charging/discharging, cyclic voltammetry, and impedance spectroscopy on experimental electrode materials</li>
+     <li>Produced heavy metal inorganic materials using high temperature synthesis</li>
+     <li>Conducted characterization such as Powder X-Ray Diffraction to determine the crystal structure and identification of materials</li>
  </ul>
 </div>
 ### Luna Innovations, Inc

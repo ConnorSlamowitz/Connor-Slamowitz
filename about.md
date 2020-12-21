@@ -38,6 +38,7 @@ August '20 - Present
 ### Luna Innovations, Inc
 Blacksburg, VA  
 May '19 - August '20 
+{% highlight html %}
 <p class="message">
   <ul>
      <li>Synthesized, characterized, tested and presented novel materials for DoD SBIR contracts</li>
@@ -46,6 +47,7 @@ May '19 - August '20
      <li>Developed and distributed custom software pertinent to the analysis of experimental data</li>
   </ul>
 </p>
+{% endhighlight %}
 ### Moore Group
 Blacksburg, VA  
 February '20 - April '20

@@ -3,7 +3,7 @@ layout: post
 title: Blog Introduction
 ---
 
-Hello! Welcome to my blog! I apologize if this is not as creative as other blogs, but perhaps that can change as time goes. 
+Hello! Welcome to my blog! I apologize if this is not as creative as other blogs, but perhaps that can change as time goes on. 
 This post serves as formal, albeit ambitious, introduction to a non-"professional" section of my portfolio.
 I will dedicate this area to developing mini projects that I may be working on. 
 

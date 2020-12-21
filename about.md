@@ -32,44 +32,44 @@ Chapel Hill, NC
 August '20 - Present
 <div class="message">
   <ul>
-     <li>Performed electrochemical analysis such as galvanostatic charging/discharging, cyclic voltammetry, and impedance spectroscopy on experimental electrode materials</li>
-     <li>Produced heavy metal inorganic materials using high temperature synthesis</li>
-     <li>Conducted characterization such as Powder X-Ray Diffraction to determine the crystal structure and identification of materials</li>
+     <li>Performed electrochemical analysis such as galvanostatic charging/discharging, cyclic voltammetry, and impedance spectroscopy on experimental electrode materials</li><br>
+     <li>Produced heavy metal inorganic materials using high temperature synthesis</li><br>
+     <li>Conducted characterization such as Powder X-Ray Diffraction to determine the crystal structure and identification of materials</li><br>
  </ul>
 </div>
 ### Luna Innovations, Inc
 Blacksburg, VA  
 May '19 - August '20 
-{% highlight html %}
-<p class="message">
+<div class="message">
   <ul>
      <li>Synthesized, characterized, tested and presented novel materials for DoD SBIR contracts</li>
      <li>Produced plastics, paints, functionalized polymer materials, and composites for next-generation defense applications</li>
      <li>Characterized nano and micro materials using tribo-indentation, microscopy, UV-Visible spectral analysis, spectroscopy and custom visual analysis software</li>
      <li>Developed and distributed custom software pertinent to the analysis of experimental data</li>
   </ul>
-</p>
-{% endhighlight %}
+</div>
+
 ### Moore Group
 Blacksburg, VA  
 February '20 - April '20
-<p class="message">
+<div class="message">
   <ul>
      <li>Worked on a team to develop novel thermoreversible sol-gel and aerogel formulations which utilizes state-of-the-art characterization techniques (SEM, WAX, SAX) to drive forward aerogel innovation and production</li>
      <li>Synthesized recycled waste polyethylene terephthalate (PET) aerogels for the Nanotechnology Entrepreneurship Challenge (NTEC)</li>
      <li>Engineered aerogel insulation for sustainable commercial construction using PET aeroge</li>
   </ul>
-</p>
+</div>
+
 ### Morris Group
 Blacksburg, VA  
 August '17 - May '19
-<p class="message">
+<div class="message">
   <ul>
      <li>Contributed to a lab designed to create artificial photosynthetic assemblies that use carbon dioxide efficiently to preserve solar energy for human consumption</li>
      <li>Conducted synthesis of metal organic frameworks (MOFs) to create battery cells and 2,6-ADCA-ADCQ Mixed MOFs to induce proton coupled electron transfer</li>
      <li>Trained, interpreted, and analyzed data collected from modern instrumentation including powder X-ray diffraction, nuclear magnetic resonance spectroscopy, charge-discharge electrochemistry, transient absorption spectroscopy, and time-resolved fluorescent spectroscopy</li>
   </ul>
-</p>
+</div>
 
 ## Awards
 <p class="message" style="text-align:center;">

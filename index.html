@@ -2,19 +2,6 @@
 layout: default
 title: Home
 ---
-<div class="posts">
-  <div class="post">
-    <h1 class="post-title">
-      <a href="https://github.com/ConnorSlamowitz/ConnorSlamowitz.github.io/blob/main/_posts/welcome_post/2020_12_05-introducing-connor.md">
-        {{ post.title }}
-      </a>
-    </h1>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.content }}
-  </div>
-</div>
 
 <div class="posts">
   {% for post in paginator.posts %}

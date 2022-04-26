@@ -5,7 +5,7 @@ title: Research and Outreach
 
 ## Introduction to my Research
 <p class="message">
-  Inspirational Science Quote goes Here
+  Enabling performance of electride electrodes with surface modifications will unlock a new class of materials that will have profound implications for energy storage. These high energy-density and long-lifetime battery materials have the potential to store energy produced by solar energy plants and wind turbine farms for city-scale power grids. 
 </p>
 
 # Low Volume Electrochemical Cell Concept  
@@ -14,7 +14,21 @@ title: Research and Outreach
 
 Designed by Jacob Pawlik - Animated by Connor Slamowitz
 
-## Introduction to my Research
+## Outreach Events
 <p class="message">
-  Inspirational Science Quote goes Here
+  2022
 </p>
+FEMMES
+
+NC-Science Festival
+
+Thing1
+
+Thing2
+<p class="message">
+  2021
+</p>
+
+NC-Science Festival
+
+Science in the Stacks

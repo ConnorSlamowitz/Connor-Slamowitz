@@ -1,5 +1,5 @@
 ---
-title: Research and Reach
+title: Research and Outreach
 ---
 
 ## Introduction to my Research

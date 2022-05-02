@@ -18,12 +18,26 @@ Designed by Jacob Pawlik - Animated by Connor Slamowitz
   2022
 </p>
 FEMMES
+![FEMMES2](https://user-images.githubusercontent.com/75542359/166312900-542736ea-0701-49b8-806e-b72fba49d9db.jpg)
+<p>
+  Femmes Description!
+</p>
+NC-Science Festival 
+![SciFest](https://user-images.githubusercontent.com/75542359/166312932-cb4b8c14-3cb1-4de1-9aaa-150b0e951cc4.jpg)
 
-NC-Science Festival
+<p>
+  NC-SciFest Description!
+</p>
 
-Thing1
+APS/MRS Career Panel
 
-Thing2
+Exploring Chemistry Innovations in the Energy Sector
+![TeacherTour1](https://user-images.githubusercontent.com/75542359/166313209-2853606a-b8f1-43f7-b90d-c702ec5b03f8.jpg)
+
+<p>
+  Lab Tour Description
+</p>
+
 <p class="message">
   2021
 </p>

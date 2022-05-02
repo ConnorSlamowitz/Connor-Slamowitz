@@ -19,13 +19,13 @@ Designed by Jacob Pawlik - Animated by Connor Slamowitz
 </p>
 FEMMES
 ![FEMMES2](https://user-images.githubusercontent.com/75542359/166312900-542736ea-0701-49b8-806e-b72fba49d9db.jpg)
-<p>
+<p class="description">
   Femmes Description!
 </p>
 NC-Science Festival 
 ![SciFest](https://user-images.githubusercontent.com/75542359/166312932-cb4b8c14-3cb1-4de1-9aaa-150b0e951cc4.jpg)
 
-<p>
+<p class="description">
   NC-SciFest Description!
 </p>
 
@@ -34,7 +34,7 @@ APS/MRS Career Panel
 Exploring Chemistry Innovations in the Energy Sector
 ![TeacherTour1](https://user-images.githubusercontent.com/75542359/166313209-2853606a-b8f1-43f7-b90d-c702ec5b03f8.jpg)
 
-<p>
+<p class="description">
   Lab Tour Description
 </p>
 

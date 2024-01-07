@@ -109,7 +109,8 @@ August '20 - Present
      <li>Conducted characterization such as Powder X-Ray Diffraction to determine the crystal structure and identification of materials</li>
  </ul>
 </div>
-### Luna Innovations, Inc
+
+### Luna Innovations
 Blacksburg, VA  
 May '19 - August '20 
 <div class="message">

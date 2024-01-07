@@ -6,18 +6,16 @@ title: Research and Outreach
 <p class="message">
   Enabling performance of electride electrodes with surface modifications will unlock a new class of materials that will have profound implications for energy storage. These high energy-density and long-lifetime battery materials have the potential to store energy produced by solar energy plants and wind turbine farms for city-scale power grids. 
 </p>
+
 # Counting Electrons in Electrides
-
-<p class="description">
-  FEMMES, or "Females in Math, Engineering, and Science" is a full-day camp for introducing young women to the world of science. The APS Graduate Student Organization taught young women about polymers. They were then able to polymerize their own colored alginate gels into worms! 
-</p>
-# Low Volume Electrochemical Cell Concept  
 ![BadELF Abstract Figure](https://pubs.acs.org/cms/10.1021/jacs.3c10876/asset/images/medium/ja3c10876_0004.gif)
-
-![E-chem cell](https://raw.githubusercontent.com/ConnorSlamowitz/ConnorSlamowitz.github.io/main/public/post001_Images/ezgif-5-0254f3e370c8.gif)
 <p class="description">
 The selection and design of charge integration methods remain an outstanding challenge in materials chemistry. In complex materials like electrides, this challenge is amplified by the small charge and complex shape of electride wave functions. For these reasons, popular integration methods, such as the Bader method, usually fail to assign any charge to the bare electrons in an electride. To address this challenge, we developed an algorithm that instead partitions the charge based on the electron localization function (ELF), a popular scheme for visualizing chemically important features in molecules and solids. The algorithm uses Bader segmentation of the ELF to find the electride electrons and Voronoi segmentation of the ELF to identify atoms. We apply this method, “BadELF”, to the quantification of atomic radii and oxidation states in both ionic compounds and electrides. For ionic compounds, we find that the BadELF method yields radii that agree closely with Shannon crystal radii, while the oxidation states agree closely with the Bader method. When they are applied to electrides, however, only the BadELF algorithm yields chemically meaningful charges. We argue that the BadELF method provides a useful strategy to identify electrides and obtain new insight into their most essential property: the quantity of electrons within them.
 </p>
+
+# Low Volume Electrochemical Cell Concept  
+![E-chem cell](https://raw.githubusercontent.com/ConnorSlamowitz/ConnorSlamowitz.github.io/main/public/post001_Images/ezgif-5-0254f3e370c8.gif)
+
 Designed by Jacob Pawlik - Animated by Connor Slamowitz
 
 ## Outreach Events

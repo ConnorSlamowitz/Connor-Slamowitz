@@ -70,14 +70,24 @@ title: CV
 </table>
 
 ## Publications
-
+3. Matthew G. Lanetti, **Connor C. Slamowitz**, Samuel M. Weaver, Nhi Huynh, Karen M. Ehrhardt, Christopher J. Pollock, Lauren M. McRae, Rebecca C. Radomsky, Jack D. Sundberg, Scott C. Warren. Ti2C: A metal with Blended Electride Character. In Preparation. 
+2. Samuel M. Weaver, Jack D. Sundberg, **Connor C. Slamowitz**, Rebecca C. Radomsky, Matthew G. Lanetti, Lauren M. McRae, and Scott C. Warren. Counting Electrons in Electrides. Journal of the American Chemical Society 2023 145 (48), 26472-26476
+DOI: 10.1021/jacs.3c10876
 1. Chakraborty, A., Ilic, S., Cai, M., Gibbons, B. J., Yang, X., **Slamowitz, C. C.**, & Morris, A. J. (2020). Role of Spin–Orbit Coupling in Long Range Energy Transfer in Metal–Organic Frameworks. Journal of the American Chemical Society, 142(48), 20434–20443. [https://doi.org/10.1021/jacs.0c09503](https://doi.org/10.1021/jacs.0c09503)
 
 ## Awards
 <p class="message" style="text-align:center;">
+  North Carolina/ Baden-Württemberg Faculty Mobility Scholarship <br>(Spring 2024)<br>
+  <br>
+  Second Place Renewable neergy Research Symposium Poster Competition<br>(Fall 2023)<br>
+  <br>
+  Third Place APS Symposium Speed Pitch Competition <br>(Fall 2023)<br>
+  <br>
+  First Place Sci-athon Pitch Competition <br>(Spring 2022)<br>
+  <br>
   Nanotechnology Entrepreneurship Challenge Award <br>(Spring 2020)<br>
   <br>
-  Timothy E. and Victoria K. Long Undergraduate Science Scholarship <br>(Spring 2019)<br>
+  Timothy E. and Victoria K. Long Undergraduate Science Scholarship <br>(Spring 2019)     <br>
   <br>
   $2,000 Luther and Alice Hamlett Research Grant <br>(Spring 2018)<br>
   <br>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blog Introduction
+title: Blog Update
 ---
 
 Hello! Welcome to my blog! I apologize if this is not as creative as other blogs, but perhaps that can change as time goes on. 

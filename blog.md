@@ -3,7 +3,7 @@ layout: page
 title: Blog
 ---
 
-<div class="posts">
+<div class="blogpost">
   {% for post in paginator.blogpost %}
   <div class="post">
     <h1 class="post-title">

@@ -2,19 +2,22 @@
 layout: page
 title: Blog
 ---
+# Counting Electrons in Electrides
+**By Samuel M. Weaver, Jack D. Sundberg, Connor C. Slamowitz, Rebecca C. Radomsky, Matthew G. Lanetti, Lauren M. McRae, and Scott C. Warren. Published in Journal of the American Chemical Society, 2023**
 
-<div class="blogpost">
-  {% for post in paginator.blogpost %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+## Synopsis
+This article introduces a novel algorithm, BadELF, designed to address the challenge of quantifying bare electrons in electrides, materials with extreme properties including high electrical conductivity, efficient reduction of N2 and CO2, ultra-fast ion transport for batteries, and ultra-low work-function electron emitters.
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+## Key Methods
+The BadELF algorithm partitions the charge based on the electron localization function (ELF), a popular scheme for visualizing chemically important features in molecules and solids. The algorithm uses two key techniques: Bader segmentation of the ELF to find the electride electrons and Voronoi segmentation of the ELF to identify atoms.
 
-    {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
+## Key Results
+When applied to ionic compounds and electrides, the BadELF method yielded results that agree closely with Shannon crystal radii, while oxidation states agree closely with the Bader method. In the case of electrides, only the BadELF algorithm yields chemically meaningful charges.
+
+## Key Conclusions
+The authors argue that the BadELF method provides a useful strategy to identify electrides and gain new insight into their most essential property: the quantity of electrons within them. The algorithm was benchmarked against the Bader method using a selection of 157 ionic crystals and demonstrated good agreement.
+
+## Additional Insights
+Despite its promising results, the authors note some limitations of the algorithm, including a systematic tendency for BadELF to yield oxidation states that are slightly larger than Bader. They suggest that the algorithm could be further refined to automate the analysis.
+
+This research represents a significant step forward in understanding electrides and their unique properties, offering exciting possibilities for future applications in various fields.

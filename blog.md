@@ -25,7 +25,7 @@ Despite its promising results, the authors note some limitations of the algorith
 This research represents a significant step forward in understanding electrides and their unique properties, offering exciting possibilities for future applications in various fields.
 
 <?php
-$dir = "path/to/blogposts/";
+$dir = "[path/to/blogposts/](https://github.com/ConnorSlamowitz/ConnorSlamowitz.github.io/tree/main/_blogpost)";
 $files = scandir($dir);
 
 foreach ($files as $file) {

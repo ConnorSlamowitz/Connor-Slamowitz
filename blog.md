@@ -23,15 +23,3 @@ The authors argue that the BadELF method provides a useful strategy to identify 
 Despite its promising results, the authors note some limitations of the algorithm, including a systematic tendency for BadELF to yield oxidation states that are slightly larger than Bader. They suggest that the algorithm could be further refined to automate the analysis.
 
 This research represents a significant step forward in understanding electrides and their unique properties, offering exciting possibilities for future applications in various fields.
-
-<?php
-$dir = "[path/to/blogposts/](https://github.com/ConnorSlamowitz/ConnorSlamowitz.github.io/tree/main/_blogpost)";
-$files = scandir($dir);
-
-foreach ($files as $file) {
-    if ($file != "." && $file != "..") {
-        // Include the file or read its content
-        include($dir . $file);
-    }
-}
-?>

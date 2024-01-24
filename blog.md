@@ -23,3 +23,42 @@ The authors argue that the BadELF method provides a useful strategy to identify 
 Despite its promising results, the authors note some limitations of the algorithm, including a systematic tendency for BadELF to yield oxidation states that are slightly larger than Bader. They suggest that the algorithm could be further refined to automate the analysis.
 
 This research represents a significant step forward in understanding electrides and their unique properties, offering exciting possibilities for future applications in various fields.
+
+# Effect of Uniaxial Stack Pressure on the Performance of Nanocrystalline Electrolytes and Electrode Composites for All-Solid-State Fluoride-Ion Batteries
+
+*By Hong Chen, Tommi Aaltoa, Vanita Vanitaa, Oliver Clemens*
+*University of Stuttgart, Institute for Materials Science, Materials Synthesis Group*
+*Published in 2023*
+*DOI: https://doi.org/10.26434/chemrxiv-2023-4xdsp*
+
+### Drafted on 1/15/2024
+## Synopsis of the Paper
+This pioneering study investigates the impact of uniaxial stack pressure on the efficacy of nanocrystalline electrolytes and electrode composites in the innovative realm of all-solid-state fluoride-ion batteries (ASS-FIBs). The research uncovers that the application of pressure is not merely beneficial but essential for enhancing cyclic stability and energy efficiency by promoting consistent inter-particle contact, a key factor in maintaining superior battery performance.
+
+## Key Methods
+The researchers employed a multifaceted approach to explore this phenomenon, which included:
+
+- Constructing a custom hot press tailored for solid-state battery operation.
+- Synthesizing nanocrystalline electrolytes via high-energy ball milling techniques.
+- Utilizing solid-state synthesis for electrode material production.
+- Performing galvanostatic cycling and electrochemical impedance spectroscopy (EIS) to meticulously evaluate ionic conductivity.
+
+## Key Results
+The study's findings are pivotal for future battery technology development. The results indicate that:
+
+- Stack pressure significantly improves the batteries' cycle life and efficiency.
+- Ionic conductivity is enhanced with increasing pressure up to a certain threshold, beyond which it deteriorates due to microstructural changes.
+- Ba0.6La0.4F2.4 electrolyte showcases the lowest activation volume, hinting at superior ionic conduction with minimal structural deformation.
+
+## Key Conclusions
+The researchers advocate for a paradigm shift in the assessment of ASS-FIBs, emphasizing that:
+
+- Cell design is crucial for optimizing battery performance.
+- Previous evaluations of the reversibility of fluoride materials may have been underestimated due to cell engineering constraints.
+- A deeper understanding of material-specific characteristics and their interaction with battery design is essential for technological advancements.
+
+## Additional Insights
+The article stands out for its novel approach to battery research and suggests that pressure isn't just a variable but a vital tool to unlock the potential of solid-state batteries. It opens up new horizons in battery research, offering a glimpse into the meticulous processes that could define the future of energy storage solutions.
+
+*This article is made available under the CC BY 4.0 license and is not peer-reviewed.*
+```

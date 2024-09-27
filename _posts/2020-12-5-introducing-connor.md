@@ -23,7 +23,7 @@ This is the official portfolio for Connor Slamowitz. I was born in Richmond, Vir
 <!-- Audio Player Section -->
 <div style="text-align:center; margin-top: 40px;">
   <audio controls style="width: 50%;">
-    <source src="https://yourwebsite.com/path/to/Resume.wav" type="audio/wav">
+    <source src="https://github.com/ConnorSlamowitz/ConnorSlamowitz.github.io/blob/main/public/audio/Resume_Shortened%20-%20Made%20with%20Clipchamp.mp4" type="audio/wav">
     Your browser does not support the audio element.
   </audio>
 </div>

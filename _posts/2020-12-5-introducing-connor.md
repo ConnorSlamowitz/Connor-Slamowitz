@@ -20,3 +20,11 @@ This is the official portfolio for Connor Slamowitz. I was born in Richmond, Vir
   </tbody>
 </table>
 
+<!-- Audio Player Section -->
+<div style="text-align:center; margin-top: 40px;">
+  <audio controls style="width: 50%;">
+    <source src="https://yourwebsite.com/path/to/Resume.wav" type="audio/wav">
+    Your browser does not support the audio element.
+  </audio>
+</div>
+
